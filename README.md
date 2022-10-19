@@ -4,11 +4,10 @@ ___
 
 Actualmente estudiante de diseño de videojuegos y entornos interactivos. Centrada sobretodo en el ambito artistico, destaco en la creatividad e invención, hasta el punto que se me va un poco la olla. Fanatica de las cinematicas de juegos, aspiro a ser capaz de manejar la animación igual de bien.
 
-Prioridades en mi vida:
+Prioridades en mi vida: gatos, comer,
 
-[ArtStation](https://www.artstation.com/leyre_valdes)
+Link a mi [ArtStation](https://www.artstation.com/leyre_valdes)
 
-![2D](https://cdna.artstation.com/p/assets/images/images/044/320/462/large/leyre-valdes-chica-con-armadura.jpg?1639666738)
 ![3D](https://cdna.artstation.com/p/assets/images/images/050/502/488/large/leyre-valdes-1a-zaidavaldes-final-001.jpg?1655016149)
 
 
