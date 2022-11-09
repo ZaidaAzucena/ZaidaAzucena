@@ -13,23 +13,18 @@ Link a mi [ArtStation](https://www.artstation.com/leyre_valdes)
 | Progrma | Nivel |
 | :---         |     :---:      |
 | Photoshop   | alto     |
+| 3D Maya | alto |
+| ZBrush | alto |
 | Premiere     | medio       |
 | Substance painter | medio |
+| 3D Max | medio |
+| Blender | medio |
+| Audition | medio |
+| MediBangPaint | medio |
+| Krita | medio |
+| Unity | medio |
+| Illustraitor | bajo |
 
-<table class="default">
-
-  <tr>
-
-    Photoshop
-
-  </tr>
-
-  <tr>
-
-    3DMaya
-
-  </tr>
-  </table>
 
 <!--
 **ZaidaAzucena/ZaidaAzucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
